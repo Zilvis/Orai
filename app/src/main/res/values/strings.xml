@@ -1,11 +1,19 @@
 <resources>
     <string name="app_name">Weather!</string>
-    <string name="login_username" >User name:</string>
-    <string name="login_password" >Password:</string>
-    <string name="login_button" >Login</string>
+    <string name="login_username">User name:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_button">Login</string>
 
-    <string name="registration_name" >User name</string>
-    <string name="registration_password" >User password</string>
-    <string name="registration_password_confirm" >User password confirm</string>
-    <string name="registration_button" >Submit</string>
+    <string name="registration_name">User name</string>
+    <string name="registration_password">Password</string>
+    <string name="registration_password_confirm">Password confirm</string>
+    <string name="registration_button">Submit</string>
+
+    <string name="loginButtonClicked">Prisijungimo vardas: </string>
+
+    <string name="ErrorMessageUsernameField">Error! You enter wrong username!</string>
+    <string name="ErrorMessagePasswordField">Error! You enter wrong password!</string>
+
+    <string name="username_hint">Enter username. Only letters</string>
+    <string name="password_hint">Enter password!</string>
 </resources>
