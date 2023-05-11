@@ -1,13 +1,17 @@
 <resources>
     <string name="app_name">Weather!</string>
-    <string name="login_username">User name:</string>
-    <string name="login_password">Password:</string>
+    <string name="registration_title">Registration</string>
+    <string name="username">User name:</string>
+    <string name="password">Password:</string>
+    <string name="password2">Confirm password:</string>
     <string name="login_button">Login</string>
-
-    <string name="registration_name">User name</string>
-    <string name="registration_password">Password</string>
-    <string name="registration_password_confirm">Password confirm</string>
-    <string name="registration_button">Submit</string>
+    <string name="submit">Submit</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_country_popup">Edit country name</string>
+    <string name="edit_degrees_popup">Edit degrees</string>
+    <string name="save">Save</string>
+    <string name="registration_button">Registration</string>
 
     <string name="loginButtonClicked">Prisijungimo vardas: </string>
 
